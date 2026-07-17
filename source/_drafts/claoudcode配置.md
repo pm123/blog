@@ -168,7 +168,7 @@ tags: cloude
 
 > 本质认知：agent 的所的记忆，本质上都是在合适的时候向大模型注入压缩过的上下文。粗暴点说——这些记忆机制本质上还是提示词工程，只不过由cc帮你组织了层次
 
-`.cloudeignore` 文件： 类似于`.gitignore` 文件，用来告诉 Cloude Code 跟些文件/目录不需要观注
+`.claudeignore` 文件： 类似于`.gitignore` 文件，用来告诉 Cloude Code 跟些文件/目录不需要观注
 
 
 
